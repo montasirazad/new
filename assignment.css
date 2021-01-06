@@ -30,7 +30,7 @@ p1{
     padding: 6px 12px;
     border-radius: 4px;
      text-decoration: none;
-     color:white ;
+     color:rgb(32, 5, 54) ;
      font-size: 20px;
      font-weight: bold;
       
@@ -50,15 +50,15 @@ margin-top: 10%;
     width: 95%;
 }
 
-  
+h4{
+    font-size: 40px;
+
+
+}
 
  
 
- h4{
-    margin-top: 15px; 
-    font-size: 40px;
-
- }
+  
   
 
  p2{
@@ -70,11 +70,61 @@ margin-top: 10%;
  .last-part{
      margin-top: 40%;
  }
-.last-part h4{
+.last-part h5{
     text-align: center;
 }
- 
+.last-part img{
+width: 25%;
+margin-top: 5%;
+margin-left: 6%;
+}
 
+.w1{
+color: tomato;
+ 
+}
+ 
+h5{
+
+font-size: 50px;
+font-weight :bold;
+
+}
+
+.g2{
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+  .con{
+   
+ 
+margin-left: 40%;
+
+  }
+
+  .stay{
+      font-size: 40px;
+      color: teal;
+      text-align: center;
+  }
+  
+  h7{
+    margin-top: 1%;
+    margin-left: 40%;
+    font-size: 35px;
+    color :rgb(62, 13, 238);
+    font-size: bold;
+  }
+
+  .end-part img{
+    width: 5%;
+    margin-top: 3cm;
+    margin-left: 20%;
+      
+  }
+     
   
   
 
